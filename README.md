@@ -28,7 +28,7 @@
 
 • 🚀 En proceso de especialización: Actualmente estoy profundizando en Angular, y pronto iniciaré con TypeScript. Mi interés por las nuevas tecnologías también me ha llevado a considerar estudios en Inteligencia Artificial.
 
-• 🌐 Portafolio: portafolio-sr-flex.netlify.app
+• 🌐 Portafolio: [portafolio-sr-flex.netlify.app](https://portafolio-sr-flex.netlify.app/)
 
 • 🐱 GitHub: github.com/SebastianRodriguezD
 
